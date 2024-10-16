@@ -79,6 +79,7 @@ p {
     align-items: center;
     height: 8vh;
     margin: auto;
+    /* position: relative; */
 }
 
 
@@ -408,6 +409,7 @@ p {
 
     .nav-menu {
         background-color: var(--navigation-color);
+        box-sizing: border-box;
         position: absolute;
         top: -110%;
         padding-left: 0;
@@ -528,7 +530,7 @@ p {
     }
 
     .footer-container {
-        width: 100vw;
+        /* width: 100vw; */
         height: 100px;
     }
 
