@@ -407,6 +407,10 @@ p {
         display: block;
     }
 
+    /* .main-nav {
+        overflow: hidden;
+    } */
+
     .nav-menu {
         background-color: var(--navigation-color);
         box-sizing: border-box;
