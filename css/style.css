@@ -414,7 +414,7 @@ p {
         top: -110%;
         padding-left: 0;
         left: 0;
-        width: 100%;
+        width: 100vw;
         height: 16vh;
         text-align: left;
         transition: 0.3s;
