@@ -418,10 +418,17 @@ p {
         transition: 0.3s;
     }
 
-    .nav-menu.active {
+    /* .nav-menu.active {
         z-index: -1;
         top: 5vh;
         padding-left: 15vw;
+    } */
+
+    .nav-menu.active {
+        z-index: -1;
+        top: 8vh;
+        padding-left: 15vw;
+        margin: 0;
     }
 
     .nav-menu.active li {
